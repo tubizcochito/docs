@@ -19,7 +19,7 @@ title: Commands
     - **Aliases:** `summon`
 ---
 - **`!play`** - Plays a song with the given name or url. [**More Info**](/play_song)
-    - **Usage:** `!play <link/query>`
+    - **Usage:** `-p <link/query>`
     - **Alias:** `p`
 ---
 - **`!playtop`** - Adds a song with the given name/url __on the top of the queue__.
@@ -27,7 +27,7 @@ title: Commands
     - **Aliases:** `pt`, `ptop`
 ---
 - **`!playskip`** - Skips the current song and plays the song you requested.
-    - **Usage:** `!playskip <link/query>`
+    - **Usage:** `-next <link/query>`
     - **Aliases:** `ps`, `pskip`, `playnow`, `pn`
 ---
 - **`!search`** - Searches from [Youtube](https://www.youtube.com) for a song via your query and returns the top 10 results.
